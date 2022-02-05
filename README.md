@@ -17,7 +17,7 @@ We can provide the users the knowledge we feed in the website within a certain d
 ## Sprint End -
 4 February 2022 
 
-## We have accomplished in the project according to the issue conveyed.
+## We have accomplished in the project according to the issue conveyed (7/7 closed stories in sprint_1)
 
 #### ISSUE 1 = At first we have created a front-end setup by that we start up with React app creation of the website
 #### ISSUE 7 = For the React app to run we have leanred Java script and CSS for the computation in the React 
